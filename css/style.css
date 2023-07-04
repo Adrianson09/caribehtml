@@ -79,3 +79,16 @@ p{
   .vision{
     font-family: Helvetica, sans-serif !important;
   }
+
+  /* Proyectos */
+  .card-title a {
+    transition: all;
+    transition-duration: 300ms;
+  }
+
+  .card-title a {
+    text-decoration: none;
+  }
+  .card-title a:hover {
+    color: #81a943 !important;
+  }
