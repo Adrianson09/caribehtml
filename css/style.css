@@ -2,7 +2,7 @@
     justify-content: end ;
 }
 h1, h2, h3, h4, h5, h6{
-   font-family: 'Times New Roman', Times, serif !important;
+   font-family: Helvetica, sans-serif !important;
 }
 body {
     margin: 0;
@@ -15,7 +15,7 @@ p{
     header{
         position: relative;
         height: 100vh;
-        background-image: url('../img/fp2.webp');
+        background-image: url('../img/exterior1_final.png');
         background-size: cover;
         background-position: center ;
         background-repeat: no-repeat;
